@@ -1,0 +1,1 @@
+Settled days for the West Flow Map, one file per day from public grid data (CAISO OASIS, BPA, BC Hydro, AESO, EIA). Updated by the settle job.
