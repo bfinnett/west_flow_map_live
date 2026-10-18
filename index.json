@@ -1,0 +1,49 @@
+{
+ "generated_utc": "2026-10-18T23:23Z",
+ "days": [
+  {
+   "day": "2026-10-17",
+   "file": "wfm_day_20261017.json"
+  },
+  {
+   "day": "2026-10-16",
+   "file": "wfm_day_20261016.json"
+  },
+  {
+   "day": "2026-10-15",
+   "file": "wfm_day_20261015.json"
+  },
+  {
+   "day": "2026-10-14",
+   "file": "wfm_day_20261014.json"
+  },
+  {
+   "day": "2026-10-13",
+   "file": "wfm_day_20261013.json"
+  },
+  {
+   "day": "2026-10-12",
+   "file": "wfm_day_20261012.json"
+  },
+  {
+   "day": "2026-10-11",
+   "file": "wfm_day_20261011.json"
+  },
+  {
+   "day": "2026-10-10",
+   "file": "wfm_day_20261010.json"
+  },
+  {
+   "day": "2026-10-09",
+   "file": "wfm_day_20261009.json"
+  },
+  {
+   "day": "2026-10-08",
+   "file": "wfm_day_20261008.json"
+  },
+  {
+   "day": "2026-10-07",
+   "file": "wfm_day_20261007.json"
+  }
+ ]
+}
