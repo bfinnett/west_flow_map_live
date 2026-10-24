@@ -1,6 +1,10 @@
 {
- "generated_utc": "2026-10-23T12:53Z",
+ "generated_utc": "2026-10-24T00:51Z",
  "days": [
+  {
+   "day": "2026-10-22",
+   "file": "wfm_day_20261022.json"
+  },
   {
    "day": "2026-10-21",
    "file": "wfm_day_20261021.json"
