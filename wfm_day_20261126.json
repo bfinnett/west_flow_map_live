@@ -33494,9 +33494,7 @@
    "mean_abs": 169.4
   }
  ],
- "notes": [
-  "input missing: eia interchange pages"
- ],
+ "notes": [],
  "excluded": [
   {
    "id": "path_c",
